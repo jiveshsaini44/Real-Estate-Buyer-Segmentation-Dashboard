@@ -1,0 +1,66 @@
+BUYER SEGMENTATION INTERPRETATION REPORT
+=======================================================
+
+Total buyers analyzed: 2000
+Number of clusters: 2
+
+=======================================================
+CLUSTER 0: Lower-Average-Price, Multiple-Property Buyers
+=======================================================
+Buyer count: 1188
+Buyer percentage: 59.40%
+
+Numerical characteristics:
+- Average age: 54.82
+- Average satisfaction_score: 3.01
+- Average property_count: 3.77
+- Average total_property_value: 1,138,838.21
+- Average average_property_price: 300,847.29
+- Average average_property_area: 1,003.89
+- Average property_categories: 1.44
+
+Most common buyer characteristics:
+- client_type: Individual (95.29%)
+- acquisition_purpose: Home (68.86%)
+- loan_applied: No (62.96%)
+- referral_channel: Website (53.20%)
+- country: Usa (77.36%)
+- region: California (31.90%)
+
+Business recommendation:
+Explore a broader range of comparatively lower-priced properties and portfolio options. Use property count and buyer preferences to design relevant offerings.
+
+=======================================================
+CLUSTER 1: Higher-Average-Price, Larger-Property Buyers
+=======================================================
+Buyer count: 812
+Buyer percentage: 40.60%
+
+Numerical characteristics:
+- Average age: 53.13
+- Average satisfaction_score: 3.06
+- Average property_count: 3.48
+- Average total_property_value: 1,438,191.10
+- Average average_property_price: 414,745.48
+- Average average_property_area: 1,357.56
+- Average property_categories: 1.46
+
+Most common buyer characteristics:
+- client_type: Individual (94.21%)
+- acquisition_purpose: Home (69.83%)
+- loan_applied: No (63.55%)
+- referral_channel: Website (58.00%)
+- country: Usa (76.23%)
+- region: California (31.28%)
+
+Business recommendation:
+Prioritize analysis of larger and higher-priced property offerings for this segment. Assess customer demand and financing needs before designing targeted campaigns.
+
+=======================================================
+INTERPRETATION LIMITATIONS
+=======================================================
+- Segment names describe observed purchasing patterns.
+- Property value is not a direct measure of buyer income or wealth.
+- Similar cluster averages do not prove identical buyer behavior.
+- K-Means currently has a low Silhouette Score.
+- Segment labels remain provisional until model comparison.

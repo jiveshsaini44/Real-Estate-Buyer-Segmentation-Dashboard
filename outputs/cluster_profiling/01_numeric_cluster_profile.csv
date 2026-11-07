@@ -1,0 +1,5 @@
+,age,age,age,age,satisfaction_score,satisfaction_score,satisfaction_score,satisfaction_score,property_count,property_count,property_count,property_count,total_property_value,total_property_value,total_property_value,total_property_value,average_property_price,average_property_price,average_property_price,average_property_price,average_property_area,average_property_area,average_property_area,average_property_area,property_categories,property_categories,property_categories,property_categories
+,mean,median,min,max,mean,median,min,max,mean,median,min,max,mean,median,min,max,mean,median,min,max,mean,median,min,max,mean,median,min,max
+Cluster,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,54.82,56.0,24,93,3.01,3.0,1.0,5.0,3.77,4.0,3,13,1138838.21,1064790.66,463611.95,3653385.38,300847.29,304516.66,154537.32,385295.29,1003.89,1014.86,564.01,1297.32,1.44,1.0,1,2
+1,53.13,53.0,24,91,3.06,3.0,1.0,5.0,3.48,3.0,3,7,1438191.1,1443369.31,1040997.25,2900509.1,414745.48,404277.61,346999.08,563423.5,1357.56,1333.56,1023.93,1800.45,1.46,1.0,1,2

@@ -1,0 +1,234 @@
+Cluster,Feature,Category,Percentage
+1,client_type,Individual,94.47
+1,client_type,Company,5.53
+2,client_type,Individual,94.69
+2,client_type,Company,5.31
+3,client_type,Individual,98.04
+3,client_type,Company,1.96
+4,client_type,Individual,95.19
+4,client_type,Company,4.81
+1,acquisition_purpose,Home,70.08
+1,acquisition_purpose,Investment,29.92
+2,acquisition_purpose,Home,69.39
+2,acquisition_purpose,Investment,30.61
+3,acquisition_purpose,Home,64.71
+3,acquisition_purpose,Investment,35.29
+4,acquisition_purpose,Home,68.41
+4,acquisition_purpose,Investment,31.59
+1,loan_applied,No,63.52
+1,loan_applied,Yes,36.48
+2,loan_applied,No,64.49
+2,loan_applied,Yes,35.51
+3,loan_applied,No,68.63
+3,loan_applied,Yes,31.37
+4,loan_applied,No,61.95
+4,loan_applied,Yes,38.05
+1,referral_channel,Website,56.05
+1,referral_channel,Agency,33.81
+1,referral_channel,Client,10.14
+2,referral_channel,Website,57.14
+2,referral_channel,Agency,36.33
+2,referral_channel,Client,6.53
+3,referral_channel,Website,72.55
+3,referral_channel,Agency,23.53
+3,referral_channel,Client,3.92
+4,referral_channel,Website,52.06
+4,referral_channel,Agency,37.64
+4,referral_channel,Client,10.3
+1,country,Usa,76.02
+1,country,Uk,4.61
+1,country,Canada,4.41
+1,country,Germany,2.97
+1,country,France,2.56
+1,country,Australia,2.36
+1,country,Belgium,2.15
+1,country,Mexico,2.15
+1,country,Russia,1.95
+1,country,Denmark,0.82
+2,country,Usa,76.33
+2,country,Uk,6.12
+2,country,Canada,4.08
+2,country,Germany,2.86
+2,country,France,2.86
+2,country,Russia,2.45
+2,country,Australia,1.63
+2,country,Belgium,1.22
+2,country,Mexico,1.22
+2,country,Denmark,1.22
+3,country,Usa,84.31
+3,country,Uk,5.88
+3,country,Canada,1.96
+3,country,Russia,1.96
+3,country,Germany,1.96
+3,country,Belgium,1.96
+3,country,France,1.96
+4,country,Usa,77.75
+4,country,Uk,4.4
+4,country,Canada,4.26
+4,country,France,2.75
+4,country,Germany,2.61
+4,country,Belgium,2.47
+4,country,Mexico,2.2
+4,country,Australia,1.65
+4,country,Russia,1.37
+4,country,Denmark,0.55
+1,region,California,31.25
+1,region,Nevada,8.09
+1,region,Colorado,6.15
+1,region,Utah,5.02
+1,region,Oregon,4.82
+1,region,Arizona,4.61
+1,region,Washington,3.59
+1,region,Virginia,2.87
+1,region,Georgia,2.36
+1,region,New York,2.25
+1,region,Texas,2.05
+1,region,Florida,1.84
+1,region,Northern Ireland,1.33
+1,region,England,1.33
+1,region,Scotland,1.33
+1,region,Ohio,1.13
+1,region,Alberta,1.02
+1,region,Manitoba,0.92
+1,region,Flanders,0.92
+1,region,British Columbia,0.92
+1,region,Quebec,0.92
+1,region,Hamburg,0.82
+1,region,Nuevo Leon,0.82
+1,region,Victoria,0.82
+1,region,Brittany,0.82
+1,region,Berlin,0.72
+1,region,Brussels,0.72
+1,region,Krasnodar Krai,0.72
+1,region,Ontario,0.61
+1,region,Wales,0.61
+1,region,New South Wales,0.61
+1,region,Provence,0.51
+1,region,Ile-De-France,0.51
+1,region,North Rhine-Westphalia,0.51
+1,region,Occitanie,0.51
+1,region,Bavaria,0.51
+1,region,Wallonia,0.51
+1,region,Mexico City,0.41
+1,region,Hesse,0.41
+1,region,Novosibirsk,0.41
+1,region,Western Australia,0.41
+1,region,Capital Region,0.31
+1,region,Saint Petersburg,0.31
+1,region,Baja California,0.31
+1,region,Queensland,0.31
+1,region,Moscow Oblast,0.31
+1,region,Puebla,0.31
+1,region,Jalisco,0.31
+1,region,Zealand,0.2
+1,region,Normandy,0.2
+1,region,North Denmark,0.2
+1,region,South Australia,0.2
+1,region,Tatarstan,0.2
+1,region,Central Denmark,0.1
+2,region,California,28.57
+2,region,Arizona,6.94
+2,region,Nevada,5.71
+2,region,Washington,5.31
+2,region,Colorado,5.31
+2,region,Utah,4.9
+2,region,New York,4.9
+2,region,Florida,3.67
+2,region,Oregon,3.27
+2,region,Texas,3.27
+2,region,Virginia,2.45
+2,region,Alberta,2.04
+2,region,Scotland,1.63
+2,region,Wales,1.63
+2,region,Brittany,1.63
+2,region,England,1.63
+2,region,Tatarstan,1.22
+2,region,Northern Ireland,1.22
+2,region,Bavaria,1.22
+2,region,Saint Petersburg,1.22
+2,region,Ohio,1.22
+2,region,Manitoba,0.82
+2,region,Flanders,0.82
+2,region,Victoria,0.82
+2,region,Southern Denmark,0.82
+2,region,Georgia,0.82
+2,region,British Columbia,0.82
+2,region,Berlin,0.82
+2,region,Ile-De-France,0.82
+2,region,Quebec,0.41
+2,region,Wallonia,0.41
+2,region,South Australia,0.41
+2,region,North Rhine-Westphalia,0.41
+2,region,Mexico City,0.41
+2,region,Western Australia,0.41
+2,region,Hamburg,0.41
+2,region,Baja California,0.41
+2,region,Nuevo Leon,0.41
+2,region,Occitanie,0.41
+2,region,North Denmark,0.41
+3,region,California,50.98
+3,region,Nevada,7.84
+3,region,Virginia,7.84
+3,region,Oregon,5.88
+3,region,Florida,5.88
+3,region,Scotland,3.92
+3,region,Quebec,1.96
+3,region,Kansas,1.96
+3,region,Novosibirsk,1.96
+3,region,Arizona,1.96
+3,region,England,1.96
+3,region,Texas,1.96
+3,region,North Rhine-Westphalia,1.96
+3,region,Brussels,1.96
+3,region,Ile-De-France,1.96
+4,region,California,31.87
+4,region,Nevada,6.32
+4,region,Arizona,6.18
+4,region,Colorado,6.18
+4,region,Oregon,5.22
+4,region,Virginia,3.71
+4,region,Texas,3.71
+4,region,Utah,3.57
+4,region,Washington,3.43
+4,region,Florida,2.75
+4,region,New York,2.06
+4,region,Alberta,1.65
+4,region,England,1.51
+4,region,Ohio,1.37
+4,region,British Columbia,1.24
+4,region,Georgia,1.24
+4,region,Wallonia,1.24
+4,region,Northern Ireland,1.1
+4,region,New South Wales,0.96
+4,region,Wales,0.96
+4,region,Ile-De-France,0.96
+4,region,Hamburg,0.96
+4,region,Jalisco,0.82
+4,region,Scotland,0.82
+4,region,Provence,0.69
+4,region,Flanders,0.69
+4,region,Brussels,0.55
+4,region,Puebla,0.55
+4,region,Saint Petersburg,0.55
+4,region,Bavaria,0.55
+4,region,Brittany,0.55
+4,region,Manitoba,0.55
+4,region,Krasnodar Krai,0.41
+4,region,Baja California,0.41
+4,region,Victoria,0.41
+4,region,Hesse,0.41
+4,region,North Rhine-Westphalia,0.41
+4,region,Ontario,0.41
+4,region,Tatarstan,0.41
+4,region,Quebec,0.41
+4,region,Normandy,0.27
+4,region,Mexico City,0.27
+4,region,Berlin,0.27
+4,region,Capital Region,0.27
+4,region,Occitanie,0.27
+4,region,Wyoming,0.14
+4,region,Southern Denmark,0.14
+4,region,North Denmark,0.14
+4,region,Western Australia,0.14
+4,region,Nuevo Leon,0.14
+4,region,Queensland,0.14

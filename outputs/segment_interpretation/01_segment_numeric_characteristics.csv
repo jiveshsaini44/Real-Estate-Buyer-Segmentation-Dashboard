@@ -1,0 +1,5 @@
+,age,age,satisfaction_score,satisfaction_score,property_count,property_count,total_property_value,total_property_value,average_property_price,average_property_price,average_property_area,average_property_area,property_categories,property_categories
+,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median
+Cluster,,,,,,,,,,,,,,
+0,54.82,56.0,3.01,3.0,3.77,4.0,1138838.21,1064790.66,300847.29,304516.66,1003.89,1014.86,1.44,1.0
+1,53.13,53.0,3.06,3.0,3.48,3.0,1438191.1,1443369.31,414745.48,404277.61,1357.56,1333.56,1.46,1.0

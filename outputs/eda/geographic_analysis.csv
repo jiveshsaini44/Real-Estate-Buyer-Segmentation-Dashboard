@@ -1,0 +1,58 @@
+country,region,buyer_count,investment_buyers,average_property_value
+Australia,New South Wales,13,3,1032954.9438461538
+Australia,Queensland,4,1,926238.6875
+Australia,South Australia,3,0,1301359.8766666667
+Australia,Victoria,13,2,1241453.81
+Australia,Western Australia,6,2,1115584.3616666666
+Belgium,Brussels,12,6,1394946.3991666667
+Belgium,Flanders,16,6,1209366.16875
+Belgium,Wallonia,15,4,1209114.4160000002
+Canada,Alberta,27,14,1132733.7962962964
+Canada,British Columbia,20,3,1273197.592
+Canada,Manitoba,15,5,1138026.3626666667
+Canada,Ontario,9,3,1135907.328888889
+Canada,Quebec,14,8,1377829.9835714286
+Denmark,Capital Region,5,1,1487801.472
+Denmark,Central Denmark,1,1,729893.08
+Denmark,North Denmark,4,0,1399075.315
+Denmark,Southern Denmark,3,1,1359660.7666666666
+Denmark,Zealand,2,1,1129434.7550000001
+France,Brittany,16,7,1324006.378125
+France,Ile-De-France,15,5,1314721.7653333333
+France,Normandy,4,1,936989.4175
+France,Occitanie,8,2,1160219.9637499999
+France,Provence,10,1,1096435.848
+Germany,Bavaria,12,2,1170936.1441666668
+Germany,Berlin,11,3,1128566.2454545454
+Germany,Hamburg,16,6,1124187.79125
+Germany,Hesse,7,2,1199081.7271428572
+Germany,North Rhine-Westphalia,10,3,1402553.144
+Mexico,Baja California,7,4,1192088.8485714286
+Mexico,Jalisco,9,4,1211692.381111111
+Mexico,Mexico City,7,3,1333354.142857143
+Mexico,Nuevo Leon,10,1,1235623.751
+Mexico,Puebla,7,3,1070025.2585714287
+Russia,Krasnodar Krai,10,3,1206845.977
+Russia,Moscow Oblast,3,1,1178126.5366666666
+Russia,Novosibirsk,5,2,1193368.4379999998
+Russia,Saint Petersburg,10,1,1269716.074
+Russia,Tatarstan,8,1,1299373.26
+Uk,England,29,10,1261487.5786206897
+Uk,Northern Ireland,24,6,1278005.34375
+Uk,Scotland,25,8,1365332.3224000002
+Uk,Wales,17,5,1213999.9258823527
+Usa,Arizona,108,36,1237170.0717592593
+Usa,California,633,190,1304663.7395734596
+Usa,Colorado,118,38,1234178.1965254238
+Usa,Florida,50,7,1333435.1554
+Usa,Georgia,34,10,1146670.3220588237
+Usa,Kansas,1,0,2817926.96
+Usa,Nevada,143,51,1280537.3576223776
+Usa,New York,49,10,1246612.7389795918
+Usa,Ohio,24,5,1144119.1958333333
+Usa,Oregon,96,38,1272468.2117708332
+Usa,Texas,56,18,1198792.5326785713
+Usa,Utah,87,27,1230653.257816092
+Usa,Virginia,65,20,1269861.3286153846
+Usa,Washington,73,20,1193661.9743835616
+Usa,Wyoming,1,0,1762231.92

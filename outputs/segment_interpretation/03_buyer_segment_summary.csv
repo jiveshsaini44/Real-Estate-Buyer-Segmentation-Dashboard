@@ -1,0 +1,3 @@
+Cluster,Segment_Name,Buyer_Count,Percentage,Average_age,Average_satisfaction_score,Average_property_count,Average_total_property_value,Average_average_property_price,Average_average_property_area,Average_property_categories,Most_Common_client_type,Most_Common_acquisition_purpose,Most_Common_loan_applied,Most_Common_referral_channel,Most_Common_country,Most_Common_region
+0,"Lower-Average-Price, Multiple-Property Buyers",1188,59.4,54.82,3.01,3.77,1138838.21,300847.29,1003.89,1.44,Individual,Home,No,Website,Usa,California
+1,"Higher-Average-Price, Larger-Property Buyers",812,40.6,53.13,3.06,3.48,1438191.1,414745.48,1357.56,1.46,Individual,Home,No,Website,Usa,California

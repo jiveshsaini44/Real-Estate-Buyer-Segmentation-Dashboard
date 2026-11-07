@@ -1,0 +1,45 @@
+FINAL BUYER SEGMENTATION VALIDATION REPORT
+=======================================================
+
+Total buyers: 2000
+Clustering features: 16
+
+ALGORITHM AGREEMENT
+------------------------------
+Adjusted Rand Index: 0.0159
+Normalized Mutual Information: 0.0134
+
+EVALUATION RESULTS
+------------------------------
+   Algorithm  K  Actual_Clusters  Silhouette_Score  Davies_Bouldin_Index  Calinski_Harabasz_Score
+     K-Means  2                2            0.1419                2.2211                 367.8635
+Hierarchical  2                2            0.1109                2.8524                 226.2915
+Hierarchical  4                4            0.1225                1.9519                 217.8502
+
+BEST SILHOUETTE RESULT
+------------------------------
+Algorithm: K-Means
+K: 2
+Silhouette: 0.1419
+
+HIERARCHICAL K=4 CLUSTER SIZES
+------------------------------
+       Algorithm  Cluster  Buyer_Count  Buyer_Percentage
+Hierarchical K=4        1          976             48.80
+Hierarchical K=4        2          245             12.25
+Hierarchical K=4        3           51              2.55
+Hierarchical K=4        4          728             36.40
+
+SMALLEST HIERARCHICAL CLUSTER
+------------------------------
+Cluster: 3
+Buyers: 51
+Percentage: 2.55%
+
+INTERPRETATION NOTE
+------------------------------
+ARI and NMI measure agreement between algorithms,
+not commercial usefulness or segment quality.
+Cluster labels are arbitrary identifiers.
+Business interpretations must be based on buyer profiles.
+Low silhouette values indicate weak cluster separation.
